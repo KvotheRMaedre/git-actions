@@ -15,9 +15,4 @@ class GitActionsApplicationTests {
 		assertEquals(1, 1);
 	}
 
-	@Test
-	void fail() {
-		assertEquals(1, 2);
-	}
-
 }
